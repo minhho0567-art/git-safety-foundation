@@ -1,1 +1,1 @@
-﻿Sửa dòng trên feature 2
+Gộp code hoàn thành thực hành xung đột bài tập Git Foundation
