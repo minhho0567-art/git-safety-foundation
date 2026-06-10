@@ -1,1 +1,1 @@
-﻿Học viên AKA Lab sửa dòng này trên main
+Gộp code hoàn thành thực hành xung đột bài tập Git Foundation
